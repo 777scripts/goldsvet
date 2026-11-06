@@ -277,9 +277,9 @@ firewall-cmd --reload
 
 The fastest way to get in touch is directly with the developer — for the full version, or for installation on your VPS or dedicated server:
 
-- **Developer: [t.me/chessmate77](https://t.me/chessmate77)** — fastest response, sales, and installation
-- Channel: [t.me/goldsvet1](https://t.me/goldsvet1)
-- Group: [t.me/osscasino](https://t.me/osscasino)
+- **Developer: [t.me/account777scripts](https://t.me/account777scripts)** — fastest response, sales, and installation
+- Channel: [t.me/channel777scripts](https://t.me/channel777scripts)
+- Group: [t.me/group777scripts](https://t.me/group777scripts)
 
 ---
 
