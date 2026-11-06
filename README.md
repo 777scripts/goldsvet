@@ -1,11 +1,11 @@
 # OSS Casino 2026
 
-**iGaming / online-casino platform source code — formerly Goldsvet.** Complete turnkey casino script — delivered as full source code — by [Zeusbyte Inc](https://github.com/ZeusbyteInc): game aggregation, sportsbook, agent network with tiered commissions, crypto payments, and 1,800+ games from 20+ providers led by the full Pragmatic Play lineup.
+**iGaming / online-casino platform source code — formerly Goldsvet.** Complete turnkey casino script — delivered as full source code — by [777Scripts](https://github.com/777scripts): game aggregation, sportsbook, agent network with tiered commissions, crypto payments, and 1,800+ games from 20+ providers led by the full Pragmatic Play lineup.
 
 Official: [COMING SOON](https://github.com) · Telegram [t.me/channel777scripts](https://t.me/channel777scripts) · group [t.me/group777scripts](https://t.me/group777scripts)
 
 [![build](https://img.shields.io/github/actions/workflow/status/ZeusbyteInc/goldsvet/build.yml?style=for-the-badge)](https://github.com/)
-[![written by humans](https://img.shields.io/badge/written_by_humans-not_ai-blue?style=for-the-badge)](https://github.com/ZeusbyteInc/goldsvet/commits/main/)
+[![written by humans](https://img.shields.io/badge/written_by_humans-not_ai-blue?style=for-the-badge)](https://github.com/777scripts/goldsvet/)
 
 [![PHP](https://img.shields.io/badge/PHP-8.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
@@ -16,7 +16,7 @@ Official: [COMING SOON](https://github.com) · Telegram [t.me/channel777scripts]
 
 This is the official repository. Release 3.0 (2026) is a complete iGaming platform on Laravel 12 and a Node.js real-time game server: multi-brand operation out of the box, an integrated agent network with tiered commissions, payment gateways including crypto, player retention tools — bonuses, VIP progress, tournaments — and a catalog of 1,800+ games from 20+ providers, led by the full Pragmatic Play lineup.
 
-<p align="center"><img src="banner.png" alt="OSS Casino 2026" width="480"></p>
+<p align="center"><img src="banner.png" alt="777Scripts Casino 2026" width="480"></p>
 
 | | |
 | --- | --- |
@@ -41,7 +41,7 @@ This is the official repository. Release 3.0 (2026) is a complete iGaming platfo
 ## Old repository and account
 
 > [!WARNING]
-> The project was previously distributed at `github.com/zeusbyte/goldsvet` under the `github.com/zeusbyte` account. That account and its repositories are **no longer controlled or maintained by the current development team** following the departure of former team members. Treat anything originating from the old account as unofficial — this repository is the only official source.
+> This is the only real project that remains fully working, turnkey, and fully customizable with extra on-demand modules. Treat anything originating elsewhere as unofficial — this repository is the only official source.
 
 ---
 
