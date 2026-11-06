@@ -2,14 +2,14 @@
 
 **iGaming / online-casino platform source code — formerly Goldsvet.** Complete turnkey casino script — delivered as full source code — by [Zeusbyte Inc](https://github.com/ZeusbyteInc): game aggregation, sportsbook, agent network with tiered commissions, crypto payments, and 1,800+ games from 20+ providers led by the full Pragmatic Play lineup.
 
-Official: [zeusbyteinc.com](https://zeusbyteinc.com) · Telegram [t.me/goldsvet1](https://t.me/goldsvet1) · group [t.me/osscasino](https://t.me/osscasino)
+Official: [COMING SOON](https://github.com) · Telegram [t.me/channel777scripts](https://t.me/channel777scripts) · group [t.me/group777scripts](https://t.me/group777scripts)
 
-[![build](https://img.shields.io/github/actions/workflow/status/ZeusbyteInc/goldsvet/build.yml?style=for-the-badge)](https://github.com/ZeusbyteInc/goldsvet/actions/workflows/build.yml)
+[![build](https://img.shields.io/github/actions/workflow/status/ZeusbyteInc/goldsvet/build.yml?style=for-the-badge)](https://github.com/)
 [![written by humans](https://img.shields.io/badge/written_by_humans-not_ai-blue?style=for-the-badge)](https://github.com/ZeusbyteInc/goldsvet/commits/main/)
 
 [![PHP](https://img.shields.io/badge/PHP-8.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Vue](https://img.shields.io/badge/Vue-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Vue](https://img.shields.io/badge/Vue-3-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)](https://vuejs.org)
 [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Redis](https://img.shields.io/badge/Redis-cache%20%2B%20queues-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-8B8B8B?style=for-the-badge)](LICENSE)
@@ -23,7 +23,7 @@ This is the official repository. Release 3.0 (2026) is a complete iGaming platfo
 | **Release** | 3.0 — 2026 |
 | **Games** | 1,800+ titles · 80 GB+ · self-hosted |
 | **Providers** | Pragmatic Play · PG Soft · EGT · KA · NetGame · and more |
-| **Channel** | [t.me/goldsvet1](https://t.me/goldsvet1) |
+| **Channel** | [t.me/channel777scripts](https://t.me/channel777scripts) |
 
 ---
 
@@ -31,10 +31,10 @@ This is the official repository. Release 3.0 (2026) is a complete iGaming platfo
 
 | Channel | Link |
 | --- | --- |
-| Website | [zeusbyteinc.com](https://zeusbyteinc.com) |
-| Telegram channel | [t.me/goldsvet1](https://t.me/goldsvet1) |
-| Telegram group | [t.me/osscasino](https://t.me/osscasino) |
-| Developer — fastest response | [t.me/chessmate77](https://t.me/chessmate77) |
+| Website | [COMING SOON](https://github.com) |
+| Telegram channel | [t.me/channel777scripts](https://t.me/channel777scripts) |
+| Telegram group | [t.me/group777scripts](https://t.me/group777scripts) |
+| Developer — fastest response | [t.me/account777scripts](https://t.me/account777scripts) |
 
 ---
 
@@ -43,15 +43,13 @@ This is the official repository. Release 3.0 (2026) is a complete iGaming platfo
 > [!WARNING]
 > The project was previously distributed at `github.com/zeusbyte/goldsvet` under the `github.com/zeusbyte` account. That account and its repositories are **no longer controlled or maintained by the current development team** following the departure of former team members. Treat anything originating from the old account as unofficial — this repository is the only official source.
 
-Only the GitHub account has changed. The official Telegram channel **[t.me/goldsvet1](https://t.me/goldsvet1)** and group **[@osscasino](https://t.me/osscasino)** remain exactly as before and are unaffected by the move — anything else claiming to represent us on Telegram, including the old ~~@goldsvetcasino1~~ group, is not official.
-
 ---
 
 ## Overview
 
 This repository is a curated public preview of the platform: a selection of real source files from the current production codebase, published so you can verify the quality and architecture for yourself. The full distribution — more than 1,800 games totaling over 80 GB, self-hosted as native files on your own infrastructure rather than streamed through a game API, listed title by title in the [complete game catalog](docs/GAMES.md) generated from the platform database — is available directly through our Telegram community, together with optional installation service on your VPS or dedicated server.
 
-For agent management and provider content aggregation, the ecosystem ships a companion panel: **[FiversCan](https://github.com/ZeusbyteInc/fiverscan)** — a Node.js agent panel with real-time balance and transaction feeds.
+For agent management and provider content aggregation, the ecosystem ships a companion panel: **[COMING SOON](https://github.com/)** — a Node.js agent panel with real-time balance and transaction feeds.
 
 **What this preview includes**
 
